@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+#reader {
+  width: 100% !important;
+  height: auto;
+}
+
+
+.rectangle {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  z-index: 444 !important;
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+.dark-mode {
+  background-color: black;
+}
+#show {
+  background: rgb(212, 212, 212);
+  border-radius: 10px;
+}
+#result {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder !important;
+  font-size: large !important;
+}
